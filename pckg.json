@@ -1,0 +1,12 @@
+{
+  "name": "nova-tag-bot",
+  "version": "1.0.0",
+  "description": "NOVA TR Tag Guard Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
